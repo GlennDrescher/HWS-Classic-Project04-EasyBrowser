@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		21EEC1D224794CD800E2A1BF /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EEC1D124794CD800E2A1BF /* TableViewController.swift */; };
 		21F7B8072478713F004B9B7C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F7B8062478713F004B9B7C /* AppDelegate.swift */; };
 		21F7B8092478713F004B9B7C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F7B8082478713F004B9B7C /* SceneDelegate.swift */; };
 		21F7B80B2478713F004B9B7C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F7B80A2478713F004B9B7C /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		21EEC1D124794CD800E2A1BF /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		21F7B8032478713F004B9B7C /* HWS-Classic-Project04-EasyBrowser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HWS-Classic-Project04-EasyBrowser.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		21F7B8062478713F004B9B7C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		21F7B8082478713F004B9B7C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				21F7B8062478713F004B9B7C /* AppDelegate.swift */,
 				21F7B8082478713F004B9B7C /* SceneDelegate.swift */,
+				21EEC1D124794CD800E2A1BF /* TableViewController.swift */,
 				21F7B80A2478713F004B9B7C /* ViewController.swift */,
 				21F7B80C2478713F004B9B7C /* Main.storyboard */,
 				21F7B80F24787143004B9B7C /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				21F7B80B2478713F004B9B7C /* ViewController.swift in Sources */,
 				21F7B8072478713F004B9B7C /* AppDelegate.swift in Sources */,
 				21F7B8092478713F004B9B7C /* SceneDelegate.swift in Sources */,
+				21EEC1D224794CD800E2A1BF /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
